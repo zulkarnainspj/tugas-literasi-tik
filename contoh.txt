@@ -1,0 +1,3 @@
+Menjelaskan pengertian GitHub
+Menjelaskan pengertian Git
+Menjelaskan cara menggunakan GitHub
